@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\C++\lab4.3\lab4.3\Source.cpp(25): error C4700: использована неинициализированная локальная переменная "x"
